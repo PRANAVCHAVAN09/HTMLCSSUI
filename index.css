@@ -90,6 +90,17 @@ ul{
     background-color: var(--accent-dark-color);
 }
 
+.secondary-button{
+    /* background-color: var(--accent-color); */
+    border-radius: 6px;
+    border-color: var(--accent-color);
+    font-weight: 700;
+    /* color: white !important; */
+    padding: 12px 24px;
+    box-shadow: 0 0 2px var(--secondary-text-color);
+    transition: 0.2s ease-out;
+}
+
 
 
 .top-banner{
